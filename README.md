@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @KennethCLA
+- 👋 Hi, I’m Kenneth!
 - 👀 I’m interested in technology, development, football, ...
 - 🌱 I’m currently learning HTML, CSS, JavaScript and PHP
+- 📚 Currently reading: "Eloquent JavaScript" by Marijn Haverbeke.
 - 📫 How to reach me kenneth.clauwaert@gmail.com
 
 <!---
